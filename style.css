@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(177, 218, 234);
+}
+.glide__slide img {
+  width: 40%;
+}
+
+#map {
+height: 400px;
+margin: 30px;
+
+}
